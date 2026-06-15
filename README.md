@@ -1,88 +1,102 @@
-<h1 align="center">Alireza Alizadeh Haji</h1>
-<p align="center">
-  <strong>Software Engineer · PhD Student in Software Engineering · Distributed Systems & Backend Architecture</strong>
-</p>
-<p align="center">
-  <a href="https://linkedin.com/in/4lir8za"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:alizadehhaji1378@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=AlirezaAlizadehHaji&style=flat&color=blue" alt="Profile views"/>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1f4e79&height=200&section=header&text=Alireza%20Alizadeh%20Haji&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20PhD%20Student%20%7C%20Distributed%20Systems&descAlignY=58&descSize=16&descColor=90caf9" width="100%"/>
+
+<br/>
+
+<a href="https://alirezaalizadehhaji.github.io"><img src="https://img.shields.io/badge/Portfolio-0d1b2a?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/4lir8za"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:alizadehhaji1378@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=AlirezaAlizadehHaji&style=for-the-badge&color=1f4e79&label=VISITORS"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=4F9EF8&center=true&vCenter=true&width=600&lines=.NET+%7C+Python+%7C+Distributed+Systems;Kafka+%E2%86%92+Elasticsearch+%E2%86%92+Real-time+Analytics;Clean+Architecture+%7C+DDD+%7C+CQRS;PhD+%40+IUST+%E2%80%94+Agentic+AI+%26+Adversarial+Robustness" alt="Typing SVG"/>
+
+</div>
 
 ---
 
-I build high-throughput, resilient backend systems — payment engines, real-time analytics pipelines, IoT command layers, and observability stacks — in production environments. Currently a first-year PhD student at [IUST](https://iust.ac.ir) (ABDAL Lab), exploring whether agentic LLM-based systems can maintain robust detection performance against adaptive, AI-driven adversaries.
+## About
+
+Software engineer with **3+ years of production experience** in distributed systems, microservice architecture, and data-intensive backend engineering. Currently a first-year **PhD student at IUST** (ABDAL Lab, Dr. Hossein Rahmani), exploring whether agentic, LLM-based systems can maintain robust detection performance against adaptive AI-driven adversaries.
+
+> Previously: sole technical owner of **12 mission-critical enterprise systems** at MVM Co. · built a real-time analytics platform ingesting **30,000 passenger records/sec** via Kafka at Jarfpouyan Hooshmand.
 
 ---
 
 ## Tech Stack
 
-**Languages**  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+<div align="center">
 
-**Backend & Architecture**  
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat)
-Clean Architecture · DDD · CQRS · Outbox Pattern · Microservices · Modular Monolith
+**Languages & Frameworks**
 
-**Messaging & Streaming**  
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-MQTT · Celery · Hangfire
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,django,java,js&perline=6"/>
 
-**Databases & Storage**  
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-MinIO · Ceph
+**Data & Messaging**
 
-**Observability**  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-Loki · Jaeger · OpenTelemetry
+<img src="https://skillicons.dev/icons?i=kafka,redis,elasticsearch,postgres,rabbitmq,mqtt&perline=6"/>
 
-**DevOps & Infrastructure**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-ArgoCD · CI/CD · WSO2 Identity Server
+**Infrastructure & Observability**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,prometheus,grafana,linux,git&perline=6"/>
+
+</div>
+
+**Architecture patterns:** Clean Architecture · Domain-Driven Design · CQRS · Outbox Pattern · Microservices · Modular Monolith · Vertical Slice Architecture · Saga · Ocelot API Gateway
 
 ---
 
-## Featured Projects
+## GitHub Stats
 
-| Repo | Description | Stack |
-|------|-------------|-------|
-| [clean-architecture-dotnet](https://github.com/AlirezaAlizadehHaji/clean-architecture-dotnet) | DDD + CQRS + Outbox Pattern reference implementation | C# / .NET Core |
-| [realtime-analytics-pipeline](https://github.com/AlirezaAlizadehHaji/realtime-analytics-pipeline) | Kafka → Django → Elasticsearch with k-means & RFM segmentation | Python |
-| [observability-stack](https://github.com/AlirezaAlizadehHaji/observability-stack) | One-command observability: Prometheus + Grafana + Loki + Jaeger + OTel | Docker Compose |
-| [grey-wolf-optimizer](https://github.com/AlirezaAlizadehHaji/grey-wolf-optimizer) | Hybrid GWO for automated software testing & fault localization | Python |
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AlirezaAlizadehHaji&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaAlizadehHaji&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165"/>
+
+</div>
+
+---
+
+## Featured Repos
+
+<div align="center">
+
+[![clean-architecture-dotnet](https://github-readme-stats.vercel.app/api/pin/?username=AlirezaAlizadehHaji&repo=clean-architecture-dotnet&theme=github_dark&hide_border=true)](https://github.com/AlirezaAlizadehHaji/clean-architecture-dotnet)
+[![realtime-analytics-pipeline](https://github-readme-stats.vercel.app/api/pin/?username=AlirezaAlizadehHaji&repo=realtime-analytics-pipeline&theme=github_dark&hide_border=true)](https://github.com/AlirezaAlizadehHaji/realtime-analytics-pipeline)
+
+[![observability-stack](https://github-readme-stats.vercel.app/api/pin/?username=AlirezaAlizadehHaji&repo=observability-stack&theme=github_dark&hide_border=true)](https://github.com/AlirezaAlizadehHaji/observability-stack)
+[![grey-wolf-optimizer](https://github-readme-stats.vercel.app/api/pin/?username=AlirezaAlizadehHaji&repo=grey-wolf-optimizer&theme=github_dark&hide_border=true)](https://github.com/AlirezaAlizadehHaji/grey-wolf-optimizer)
+
+</div>
 
 ---
 
 ## Research
 
-**PhD — IUST · ABDAL Lab · Supervisor: Dr. Hossein Rahmani**  
-Investigating whether agentic, LLM-based systems can maintain robust detection performance against adaptive AI-driven fraud and social engineering attacks — adversaries that continuously evolve their tactics, causing static classifiers to degrade rapidly. Early-stage; currently conducting a structured literature review before committing to a formal research proposal.
+**PhD direction — IUST · ABDAL Lab · Dr. Hossein Rahmani** *(2025–present)*
+> Investigating whether agentic, LLM-based systems can maintain robust detection performance against adaptive AI-driven fraud and social engineering attacks — adversaries that continuously evolve their tactics, causing static classifiers to degrade rapidly.
 
-**MSc Thesis — IUST · Supervisor: Dr. Mohammad-Hadi Alaeiyan**  
-*Enhancing Domain Coverage and Fault Detection Accuracy in Software Testing Using a Hybrid Grey Wolf Optimization Algorithm* — Proposed combining GWO with coverage-guided test generation; demonstrated measurable gains in mutation score and branch coverage over baseline methods.
+**MSc thesis — IUST · Dr. Mohammad-Hadi Alaeiyan** *(2023–2025)*
+> *Enhancing Domain Coverage and Fault Detection Accuracy in Software Testing Using a Hybrid Grey Wolf Optimization Algorithm* — demonstrated measurable gains in mutation score and branch coverage over baseline methods. → [`grey-wolf-optimizer`](https://github.com/AlirezaAlizadehHaji/grey-wolf-optimizer)
 
 ---
 
 ## Production Highlights
 
-- **Real-time analytics platform** ingesting **30,000 passenger records/sec** via Kafka, with Elasticsearch OLAP tier (k-means, RFM, anomaly detection) across **1M+ records** — Jarfpouyan Hooshmand, 2025
-- **12 mission-critical enterprise systems** (payments, after-sales, B2C) for a major automotive manufacturer — MVM Co., 2023–2025
-- **IoT command-dispatch layer** over MQTT enabling remote vehicle control (engine start, door lock) from mobile app — MVM Co.
-- **30% microservice latency reduction** via query profiling, MSSQL index optimization, and Redis hot-path caching — MVM Co.
-- **Full observability stack** (Prometheus · Loki · Jaeger · OpenTelemetry) across 12 distributed .NET services — MVM Co.
+| System | Scale | Stack |
+|--------|-------|-------|
+| Real-time passenger analytics | 30k rec/sec · 1M+ records | Kafka · Django · Elasticsearch · Celery |
+| MVM Customer Service Platform | 12 subsystems · national scale | .NET Core · Clean Arch · DDD · CQRS |
+| Enterprise Payment Engine | High-volume · full idempotency | .NET Core · MSSQL · Outbox Pattern |
+| IoT vehicle command layer | Remote engine/door control | MQTT · .NET Core · Mobile API |
+| Observability stack | 12 distributed services | OTel · Prometheus · Grafana · Loki · Jaeger |
+| Object storage / CDN | Replaced vendor lock-in | MinIO · Ceph · Custom CDN |
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlirezaAlizadehHaji&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaAlizadehHaji&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4e79,100:0d1b2a&height=100&section=footer" width="100%"/>
+
+</div>
